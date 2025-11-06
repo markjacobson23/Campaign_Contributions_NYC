@@ -12,8 +12,8 @@ This project explores New York City campaign finance data using Python and Table
 * **Source**: NYC Open Data
 * **Rows**: ~1.4 million (reduced to ~600,000 after cleaning)
 * **Fields**: 54 original columns to 16 cleaned and engineered features used
-* The raw CSV files are not tracked in Git due to size.
-You can download them here: [data](https://drive.google.com/file/d/1Z9QmHaJsr7phY8g59JyrYkxDHZ9tx9fL/view?usp=drive_link)
+* The raw CSV file is not tracked in Git due to size.
+You can download it here: [data](https://drive.google.com/file/d/1Z9QmHaJsr7phY8g59JyrYkxDHZ9tx9fL/view?usp=drive_link)
 
 ### Key Columns Used
 
